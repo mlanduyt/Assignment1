@@ -1,0 +1,12 @@
+import numpy as np
+
+#define variables
+f = lambda x: x
+a = 5
+b = -10
+tol = 0.01
+
+from Bisection_Method import bisection
+
+bisection (f, a, b, tol)
+

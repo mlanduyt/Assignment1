@@ -1,0 +1,12 @@
+import numpy as np
+
+#define variables
+def variables():
+    f = lambda x: 2*x + 5
+    a = -20
+    b = 50
+    tol = 0.01
+
+print (a)
+print (b)
+print (tol)
